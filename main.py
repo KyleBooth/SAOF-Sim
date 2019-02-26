@@ -1,4 +1,4 @@
-## SAOFS: The Simple Autonomous Order Fulfillment Simulator 
+## SAOF-Sim: The Simple Autonomous Order Fulfillment Simulator 
 ## Author: Kyle E. C. Booth
 ## Email: kbooth@mie.utoronto.ca
 ## File description: Main function. Loads problem/simulation params and calls simulateFactory(). Outputs makespan.

@@ -1,4 +1,4 @@
-## SAOFS: The Simple Autonomous Order Fulfillment Simulator 
+## SAOF-Sim: The Simple Autonomous Order Fulfillment Simulator 
 ## Author: Kyle E. C. Booth
 ## Email: kbooth@mie.utoronto.ca
 ## File description: Specify allocation logic. Define our own allocator/scheduler here (with appropriate adjustments in simulator.py). 

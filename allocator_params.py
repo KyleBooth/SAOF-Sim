@@ -1,4 +1,4 @@
-## SAOFS: The Simple Autonomous Order Fulfillment Simulator 
+## SAOF-Sim: The Simple Autonomous Order Fulfillment Simulator 
 ## Author: Kyle E. C. Booth
 ## Email: kbooth@mie.utoronto.ca
 ## File description: Allocator supporting params. calculateCostMatrix() calculates cost of assigning a robot a particular task (currently unused in the allocation methods).
