@@ -1,4 +1,4 @@
-**SAOF-Sim** The Simple Autonomous Order Fulfillment Simulator 
+**SAOF-Sim** The Simple Autonomous Order Fulfillment Simulator   
 **Author:** Kyle E. C. Booth (kbooth@mie.utoronto.ca)  
 
 ### File descriptions:
